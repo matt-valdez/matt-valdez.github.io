@@ -1,0 +1,21 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+  - name: M.S in Computer Science
+    icon: fa-code
+    institution:
+      name: University of West Florida
+      url: "https://uwf.edu"
+      logo: images/edu/uwf.png
+  - name: B.S in Software Engineering
+    icon: fa-code
+    institution:
+      name: University of West Florida
+      url: "https://uwf.edu"
+      logo: images/edu/uwf.png 

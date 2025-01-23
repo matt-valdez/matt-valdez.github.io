@@ -1,0 +1,38 @@
+section:
+  name: Skill Highlights
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+  - name: Kubernetes
+    logo: 'images/skills/kubernetes.jpg'
+    summary: 'Utilized Kubernetes to orchestrate containerized microservices and real-time data pipelines, helping cut data processing times by 50%.'
+
+  - name: Python
+    logo: 'images/skills/python.jpg'
+    summary: 'Developed analytics tools and automation scripts in Python that streamlined workflows and doubled QA capacity. Developed and maintained FastAPI backends.'
+
+  - name: Go
+    logo: 'images/skills/golang.png'
+    summary: 'Built high-performance Golang microservices, driving concurrency and significantly reducing end-to-end processing times.'
+  
+  - name: Java
+    logo: 'images/skills/java.jpg'
+    summary: 'Implemented large-scale Java services for backend operations, championing best practices to deliver maintainable and efficient architectures.'
+
+  - name: Linux
+    logo: 'images/skills/linux.png'
+    summary: 'Engineered solutions within Linux environments, boosting security and performance across diverse production systems.'
+
+  - name: C++
+    logo: 'images/skills/cpp.png'
+    summary: 'Leveraged C++ for performance-critical modules, ensuring maintainable, high-quality code that enhanced system reliability.'
+
+  - name: AWS and Azure
+    logo: 'images/skills/aws.png'
+    summary: 'Deployed containerized applications on AWS for mission-critical workloads, optimizing cost, scalability, and availability.'
+
+  
+

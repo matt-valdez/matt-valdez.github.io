@@ -1,0 +1,95 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: Umbra Labs
+      location: Santa Barbara, CA (Remote)
+      logo: 'images/companies/umbra-logo-dark-flat.svg'
+    positions:
+      - designation: Senior Software Engineer
+        start: January 2023
+        responsibilities:
+          - Tech Lead for internal QA and Analytics tool. Work closely with business users and analysts.
+          - Delivered Billing feature that enabled >100K$ increase in sales
+          - Integrate Kafka into solution to enable real-time updates of SAR imaging status
+          - Increase capacity and efficiency of QA Team by more than 100% with the rapid development of the systems
+          - Maintain and develop FastAPI microservice system for orders and delivery as a tech lead.
+  - company: 
+      name: HopeForge
+      location: Palmetto, Florida
+      logo: 'images/companies/HopeForgeLogo.png'
+    positions:
+      - designation: Founder
+        start: March 2021
+        responsibilities:
+          - Consult about software design and architecture
+          - Work on next generation signal processing infrastructure within Kubernetes
+          - Upgrade reporting by migrating to PySpark on Databricks while increasing performance from 1 day to ~3 hours
+          - Help maintain a Ruby on Rails codebase while aiding in breaking a monolith
+          - Create Go application that decreased model creation time from hours to 6 minutes utilizing Azure Container Jobs and deploying to container environments.
+          - Create Go TUI to download and modify SAR Images to be used in Social Media applications utilizing templates
+          - Develop Go and FastAPI standards that were adopter throughout customer enterprise
+  - company:
+      name: Philips (Respironics)
+      location: Remote
+      logo: 'images/companies/philips.png'
+    positions:
+      - designation: Senior Software Engineer
+        start: March 2021
+        end: January 2023
+        responsibilities:
+          - Help design and develop new Data Lake architecture utilizing S3, Hudi, and Presto
+          - Create python Simulator for performance testing Kafka Event Stream sending 10’s millions records through kafka
+          - Develop python GUI to configure Spark and Airflow jobs - lowering development time from weeks to days
+  - company:
+      name: MRSL Real-time Systems Laboratory
+      location: Sarasota, Florida
+      logo: 'images/companies/mrsl.png'
+    positions:
+      - designation: Senior Software Engineer
+        start: February 2016
+        end: March 2021
+        responsibilities:
+          - Lead and manage a team of engineers in converting MATLAB system into Python
+          - Create complex data processing systems utilizing Java, Python, and MATLAB
+          - Utilize NumPy and PANDAS to create a high-performance large data analytical system
+          - Develop visual analytics software via Bokeh, Tornado, and Angular
+          - Create internal Java applications to enhance the workflow for configuration and testing
+          - Develop new methods to process data for efficiency - Reducing memorying footprint from 2GB to 200MB
+          - Lead a small team in creating tools to debug Inputs and Outputs of the system
+          - Optimize system API to MongoDB for real-time data processing utlizing batch processing to increase speed by 50%
+          - Enhance embedded system processing using C++ by creating remote debugging interfaces
+  - company:
+      name: Sandlot Solutions
+      location: Dallas, Texas (Remote)
+      logo: 'images/companies/sandlotsolutions.jpg'
+    positions:
+      - designation: Integration Engineer
+        start: January 2015
+        end: February 2016
+        responsibilities:
+          - Modify Mirth to meet customer and company needs
+          - Created a HTTPS connector plugin (written in Java_ for MIRTH; so we can share documents and patient data securely
+          - Helped create the advanced Javascript channels to properly manipulate and validate incoming XML data
+  - company:
+      name: CPSI
+      location: Mobile, Alabama
+      logo: 'images/companies/cpsi.jpg'
+    positions:
+      - designation: Developer II
+        start: May 2014
+        end: January 2015
+        responsibilities:
+          - Discuss new development/ design changes with product management as well as support to define a scope of development that incorporates all specifications of the client in a feasible amount of time. 
+          - Primariliy using JAVA, xml, and PostgreSQL; implement changes to numerous applications
+          - Developer and Maintainer of CommonWell Gateway 
+          - Use of Axis2, Apache Rampart, and SOAP to create and maintain a XDA.b file sharing gateway
+          - Use of Perl and Shell Script to create automation scripts for the Linux Environment
+          - Troubleshoot and maintain current code base using JVM Debugger, Profiler, as well as logging
+          - Point person for numerous applications for questions
+

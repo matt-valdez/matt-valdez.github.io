@@ -1,0 +1,16 @@
+name: "Matthew Valdez"
+nickname: "Valdez"
+image: "images/author/matt.png"
+
+greeting: "Hey there, I am a software engineer!"
+
+contactInfo:
+  email: "matthew.valdez@gmail.com"
+  phone: "8509129684"
+
+summary:
+  - I am a software engineer
+  - I work with Go, Python, Java, and React
+  - Space systems is my passion
+  - Years of experience with healthcare and government
+  - I enjoy leading teams to success 

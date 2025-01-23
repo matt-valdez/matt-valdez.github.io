@@ -1,0 +1,43 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Senior Software Engineer
+company: 
+  name: Umbra
+  url: "https://umbra.space"
+
+summary: 'Senior Software Engineer with over a decade of experience designing scalable data and analytics solutions using Java, Python, Golang, and C++, specializing in microservices (FastAPI, Docker, Kubernetes) and real-time data pipelines (Kafka, Spark). Holds an M.S. in Computer Science and a Cornell Machine Learning certification, with a track record of doubling QA capacity, slashing data processing times, and championing best practices in maintainable code and architecture.'
+
+socialLinks:
+  - name: Email
+    icon: 'fas fa-envelope'
+    url: 'matthew.valdez@gmail.com'
+
+  - name: LinkedIn
+    icon: 'fab fa-linkedin'
+    url: 'https://linkedin.com/in/matthewvaldez'
+
+  - name: Github
+    icon: 'fab fa-github'
+    url: 'https://github.com/matt-valdez'
+
+resourceLinks:
+  - title: 'My Resume'
+    url: 'files/MattResume2025.pdf'
+
+badges:
+  - type: certification
+    name: Security+
+    url: "https://www.credly.com/badges/fd807bd9-3cd9-418e-a677-430d0b523168/linked_in_profile"
+    badge: "https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"
+
+  - type: certification
+    name: Cornell University - Machine Learning
+    url: "https://www.linkedin.com/in/matthewvaldez/overlay/1590522160498/single-media-viewer/?profileId=ACoAAAL4rGQB8wnPADLTVAb195nJdg5HYsiz0uM"
+    badge: 'https://github.com/matt-valdez/matt-valdez.github.io/blob/main/assets/images/cornellcert_ml.png?raw=true'
+

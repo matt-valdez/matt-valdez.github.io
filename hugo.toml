@@ -8,6 +8,7 @@ gitRepo = 'https://github.com/matt-valdez/matt-valdez.github.io'
     path =  'github.com/hugo-toha/toha/v4'
 
 [params]
+  background = "images/mattvaldezdev_bg.png"
   [params.features]
     [params.features.analytics]
       enabled = false
